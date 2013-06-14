@@ -1,0 +1,14 @@
+# Netrunner main packages
+deb http://packages.netrunner-os.com enigma main  
+
+# Netrunner main ppa
+deb http://ppa.launchpad.net/netrunner-os/enigma-1306/ubuntu raring main 
+
+# Netrunner main update ppa
+deb http://ppa.launchpad.net/netrunner-os/enigma-1306-updates/ubuntu raring main 
+
+# Netrunner simpleclone ppa
+#deb http://ppa.launchpad.net/simpleclone/simpleclone-1306/ubuntu raring main
+
+# Netrunner simpleclone-ce ppa
+deb http://ppa.launchpad.net/simpleclone/simpleclone-ce/ubuntu raring main
